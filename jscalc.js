@@ -49,7 +49,7 @@ b_item=document.frm1.b_item.selectedIndex;
 
 //debug=document.frm1.weather.selectedIndex;
 
-  document.frm1['debug'].value = b_ability;
+//  document.frm1['debug'].value = b_ability;
 //Attack rank-------------------------------------------
 if(a_rank>=0){
 a_rank=(a_rank+2)/2;
